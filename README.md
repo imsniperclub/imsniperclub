@@ -1,16 +1,13 @@
-## Hi there 👋
+### yo, i'm imsniperclub 👋
 
-<!--
-**imsniperclub/imsniperclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Indonesia.
 
-Here are some ideas to get you started:
+- learning Python the slow way
+- shipping small and often
+- happy to pair on open-source stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsniperclub&layout=compact&langs_count=8&hide_border=true&theme=dracula" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsniperclub&hide_border=true&theme=dracula" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Pandas-58a6ff?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-58a6ff?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/DuckDB-58a6ff?style=for-the-badge&logoColor=white" alt="DuckDB" />
